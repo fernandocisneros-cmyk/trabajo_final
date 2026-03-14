@@ -1,0 +1,27 @@
+
+
+
+Instrucciones para el trabajo final de Linea de Comandos de BSG Marzo del 2026.
+
+
+1) Crear un repositorio en la plataforma de Github llamado trabajo_final
+
+2) La estructura del repositorio debe ser la que se comento en clase como una buena practica a seguir con los debidos folders y estructura.
+
+3) Se debe desarrollar un notebook en donde se aplique todo lo aprendido sobre Natural Language Processing al archivo de la Novela del archivo de texto cien.txt   
+
+4) Agregar una presentacion en formato PDF en la que muestren los prompts que hayan trabajado segun el ejercicio de clase. Comenzar con un prompt mal elaborado e irlo refinando hasta llegar a una repuesta con todos los requerimientos.
+
+5) Todo debe ser agregado el repositorio local para despues subirlo con un push a Git.
+
+6) Enviar solo la liga de su repositorio a mi correo cesar.maldonado.mercado@gmail.com El asunto del correo debe ser: Liga de Git para Trabajo Final Linea de Comandos BSG Marzo 2026.
+
+Fecha limite es el miercoles 18 de Marzo.  
+
+Cualquier duda o comentario no duden en escribir a mi correo.
+
+Feliz fin de semana
+
+Cesar 
+
+(Los acentos del texto fueron borrados por mi).
